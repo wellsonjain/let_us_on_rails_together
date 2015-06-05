@@ -12,3 +12,4 @@ github_username:  hiroshiyui
 
 # Build settings
 markdown: kramdown
+exclude: ['LICENSE', 'README.md']
