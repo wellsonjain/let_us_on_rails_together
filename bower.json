@@ -1,0 +1,19 @@
+{
+  "name": "let_us_on_rails_together",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hiroshiyui/let_us_on_rails_together",
+  "authors": [
+    "Huei-Horng Yo <hiroshi@ghostsinthelab.org>"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
