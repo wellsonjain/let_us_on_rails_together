@@ -1,5 +1,5 @@
 [submodule "polymer"]
-	path = javascripts/polymer
+	path = components/polymer
 	url = git@github.com:Polymer/polymer.git
 [submodule "webcomponentsjs"]
 	path = javascripts/webcomponentsjs
