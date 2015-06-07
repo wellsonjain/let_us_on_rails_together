@@ -100,6 +100,11 @@ a {
         color: $text-color;
         text-decoration: underline;
     }
+
+    &.site-title {
+      font-family: 'Patua One', cursive;
+      color: #333;
+    }
 }
 
 
